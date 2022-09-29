@@ -1,6 +1,3 @@
-# ENTRYPOINT ["gunicorn", "--bind", "0.0.0.0:9696", "churn_serving:app"]      # If we run the Docker image, we want our churn a
-
-
 FROM python:3.8.12-slim                      # First install the python 3.8, the slim version have less size
 ENV PYTHONUNBUFFERED=TRUE
 RUN pip install pipenv                       # Install pipenv library in Docker 
