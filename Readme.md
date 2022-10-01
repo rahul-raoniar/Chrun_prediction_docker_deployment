@@ -26,6 +26,6 @@ The project involved the following steps:
 * Built the `churn-prediction` docker container
 * `Run` the `docker container` and tests to check for model prediction
 
-$$Output = \{'churn': False\,,\, 'churn-probability': 0.0596\}$$
+$$\{'churn': False\,,\, 'churn-probability': 0.0596\}$$
 
 
