@@ -4,7 +4,7 @@
 
 `Data Source:` https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 
-`Project Requirements:` python 3.9, pandas, numpy, scikit-learn. docker
+`Project Requirements:` python 3.9, pandas, numpy, scikit-learn, docker
 
 The project involved the following steps:
 
