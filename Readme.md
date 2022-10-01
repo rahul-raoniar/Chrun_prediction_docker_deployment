@@ -2,13 +2,13 @@
 
 ### Project aim: Creating a churn prediction model (binary classification) and deploying it using docker container.
 
-`Data Source:` https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
+`Data Source`: https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 
-`Project Requirements:` python 3.9, pandas, numpy, scikit-learn and docker
+`Project Requirements`: python 3.9, pandas, numpy, scikit-learn and docker
 
-`Operating System:` Linux
+`Operating System`: Linux
 
-`Tools:` Visual Studio Code and Linux command line
+`Tools`: Visual Studio Code and Linux command line
 
 The project involved the following steps:
 
@@ -29,4 +29,3 @@ The project involved the following steps:
 * Created a `Dockerfile` and added instructions
 * Built the `churn-prediction` docker container
 * `Run` the `docker container` and tests to check for model prediction
-
