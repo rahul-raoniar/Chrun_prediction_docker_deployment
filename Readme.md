@@ -1,10 +1,10 @@
-# Churn prediction model deployment 
+# <font color="#FFC300 ">Churn prediction model deployment</font>
 
-### Project aim: Creating a churn prediction model (binary classification) and deploying it using docker container.
+### <font color="#FFB74D">Project aim:</font> Creating a churn prediction model (binary classification) and deploying it using docker container.
 
-`Data Source:` https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
+<font color="#FFB74D">Data Source:</font> https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 
-`Project Requirements:` python 3.9, pandas, numpy, scikit-learn. docker
+<font color="#FFB74D">Project Requirements:</font> python 3.9, pandas, numpy, scikit-learn. docker
 
 The project involved the following steps:
 
