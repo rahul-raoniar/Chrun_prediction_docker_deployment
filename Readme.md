@@ -4,7 +4,11 @@
 
 `Data Source:` https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 
-`Project Requirements:` python 3.9, pandas, numpy, scikit-learn, docker
+`Project Requirements:` python 3.9, pandas, numpy, scikit-learn and docker
+
+`Operating System:` Linux
+
+`Tools:` Visual Studio Code and Linux command line
 
 The project involved the following steps:
 
