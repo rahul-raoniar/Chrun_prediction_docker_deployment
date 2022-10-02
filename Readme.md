@@ -23,6 +23,7 @@ The project involved the following steps:
 * Computing `auc-roc` (due to target class imbalance)
 * Used `pickle` library to save and load the model
 * Created a basic flask app `churn-serving.py` for predicting churn based on single observation input
+* Tested flask app's prediction using `request` python library 
 * Used `pipenv` to manage project dependencies. This will create `Pipenv` and `Pipenv.lock` files. It manages exact depndencies that we need to run the application.
 * Installed `gunicorn` using pipenv which is a production ready `WSGI server tool`. It can handle http request without any issues.
 * Installed `docker` for creating and running a docker container
