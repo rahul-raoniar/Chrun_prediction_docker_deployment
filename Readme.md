@@ -1,6 +1,6 @@
 # Churn prediction model deployment 
 
-### Project aim: Creating a churn prediction model (binary classification) and deploying it using docker container on local Linux Machine and AWS Elastic Beanstaclk using ebcli.
+### Project aim: Creating a churn prediction model (binary classification) and deploying it using docker container on local Linux Machine and AWS Elastic Beanstalk using awsebcli.
 
 `Data Source`: https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 
@@ -51,7 +51,7 @@ The project involved the following steps:
 
 * `Run` the `docker container` and tests to check for model prediction
 
-### Deploying model using AWS Elastic beanstaclk
+### Deploying model using AWS Elastic Beanstalk
 
-* Locally tested and deployed on AWS using Elastic Beanstalk CLI (ebcli)
+* Locally tested and deployed on AWS using Elastic Beanstalk CLI (awsebcli)
 * Tested the prediction using the AWS Application host's IP address 
